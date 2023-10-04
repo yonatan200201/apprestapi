@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yonatan200201",
+  "license": "ISC",
+  "description": "aplikasi rest api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonatan200201/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/yonatan200201/apprestapi/issues"
+  },
+  "homepage": "https://github.com/yonatan200201/apprestapi#readme"
+}
